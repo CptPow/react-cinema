@@ -1,0 +1,23 @@
+.container-movie {
+    display: flex;
+    margin-bottom: 50px;
+    gap: 20px;
+}
+
+.container-series {
+    display: flex;
+    margin-bottom: 50px;
+    gap: 20px;
+}
+
+img {
+    max-width: 11rem;
+}
+
+.card {
+    max-width: min-content;
+    max-height: min-content;
+color: rgb(38, 38, 38);
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+text-align: center;
+}
